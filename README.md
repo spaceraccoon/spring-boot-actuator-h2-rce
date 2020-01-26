@@ -2,6 +2,8 @@
 
 ## Introduction
 
+Writeup: https://spaceraccoon.dev/remote-code-execution-in-three-acts-chaining-exposed-actuators-and-h2-database
+
 This is a sample app based off the default Spring Boot app in Spring's [documentation](https://spring.io/guides/gs/spring-boot-docker/) that demonstrates how an attacker can achieve RCE on an instance with an exposed `/actuator/env` endpoint and a H2 database.
 
 ## Usage
